@@ -1,1 +1,1 @@
-Esto es una prueba para modificar un repositorio localmentevy luego subirlo a github.
+Esto es una prueba para modificar un repositorio localmente y luego subirlo a github.
